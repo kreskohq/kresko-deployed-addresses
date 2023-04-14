@@ -1,0 +1,134 @@
+[
+  {
+    "AccountStateFacet": "0x4E086BD6b48B999A3183d0577d5178c87D2B1d83"
+  },
+  {
+    "AuthorizationFacet": "0xa477e632b24f1a3D3E8551894a16AfdDE7C7065f"
+  },
+  {
+    "BurnFacet": "0x93B7b1BA0e214143A446c790d152F52b28D49061"
+  },
+  {
+    "BurnHelperFacet": "0xb3B6366eb802041E24f1E9F5DddEF080B5fc2CbE"
+  },
+  {
+    "ConfigurationFacet": "0xa0c6E5FF4dBB327F24c5d46816aE24ebd6f7fd39"
+  },
+  {
+    "DAI": "0x7ff84e6d3111327ED63eb97691Bf469C7fcE832F"
+  },
+  {
+    "DepositWithdrawFacet": "0x33a1cB462086bc6D28078Ea4310E5F683F9d2e81"
+  },
+  {
+    "Diamond": "0x0921a7234a2762aaB3C43d3b1F51dB5D8094a04b"
+  },
+  {
+    "DiamondCutFacet": "0xae766405F3d7836664DBdFecD77498FC271bb410"
+  },
+  {
+    "DiamondLoupeFacet": "0x5e90B718320C5dA86f5Af0D35c3d99128Aa6a731"
+  },
+  {
+    "DiamondOwnershipFacet": "0xbC6C64db2bd12e54EA3Ea4140b6F9CAC1AEfa73f"
+  },
+  {
+    "ERC165Facet": "0x82674Ef11291Fca38d9f05E061A3d74C64B66E5d"
+  },
+  {
+    "FluxPriceFeedFactory": "0xc7153F37F2fAE03CFB6C145B2B2317869f85D86b"
+  },
+  {
+    "InterestLiquidationFacet": "0xdE38EdaEbF8757ff0455ff62a509DEE4670330Dc"
+  },
+  {
+    "KISS": "0xC0B5aBa9F46bDf4D1bC52a4C3ab05C857aC4Ee80"
+  },
+  {
+    "KrStaking": "0x5843Cd37d7566173158c0B2655DA6A57422d4734"
+  },
+  {
+    "KrStakingHelper": "0xB1A13FbC46800276671403CeDdd528D01a447c8F"
+  },
+  {
+    "KrStaking_Implementation": "0x7FBC9e9e6976E4F43aDCaF5BDd2946067A02bd54"
+  },
+  {
+    "KrStaking_Proxy": "0x5843Cd37d7566173158c0B2655DA6A57422d4734"
+  },
+  {
+    "LiquidationFacet": "0x663851fE5595b688d33B046082f74E581EA0fED4"
+  },
+  {
+    "MintFacet": "0xA17767A8af5681b2793ec158969aD6Dc632c5Ba9"
+  },
+  {
+    "Multicall3": "0x7FFcE0C2BEd18aDf44383FC2897B3061648F442C"
+  },
+  {
+    "SafetyCouncilFacet": "0x5ab51409c5fA75120caeb154ceF185D273f6aC40"
+  },
+  {
+    "SignMessageLib": "0x98FFBBF51bb33A056B08ddf711f289936AafF717"
+  },
+  {
+    "StabilityRateFacet": "0x7Bd6469402a6774Fb19fc42a974cb27aA72F52Ad"
+  },
+  {
+    "StateFacet": "0x1Fc8f2185ae35b27843773779C47E784EdF2F739"
+  },
+  {
+    "UIDataProviderFacet": "0xd9FB6E6BEb3a5D536147cA5dC53EfEACFf9c8B32"
+  },
+  {
+    "UIDataProviderFacet2": "0x2cb6db1b7FCF101b3b079665Ad521A95774E04E2"
+  },
+  {
+    "UniswapV2Factory": "0xc88508156D93BfF0Adce6c84d4269Efc82D4C827"
+  },
+  {
+    "UniswapV2Oracle": "0x1B855054ebd895Cf9E08587b537D6864f947620F"
+  },
+  {
+    "UniswapV2Router02": "0x1f693246650f93a7E9f4a713479695881b96b5F1"
+  },
+  {
+    "akrETH": "0x532b49613DAeBfCb7d2a6510A608086ec32498eE"
+  },
+  {
+    "akrETH_Implementation": "0xb0b0c45df460d014D58f5a1882cef04a5b7B1aE0"
+  },
+  {
+    "akrETH_Proxy": "0x532b49613DAeBfCb7d2a6510A608086ec32498eE"
+  },
+  {
+    "akrTSLA": "0xBBE5b27f34D11436AEf6e8DBfd96c83fa445EcEe"
+  },
+  {
+    "akrTSLA_Implementation": "0xe875Cf5125a8A539Cf06dDBf3d1a7b9EcE5dc129"
+  },
+  {
+    "akrTSLA_Proxy": "0xBBE5b27f34D11436AEf6e8DBfd96c83fa445EcEe"
+  },
+  {
+    "krCUBE": "0xB7E7B5D9C553ea7C8B6274a8079939e9064b46c3"
+  },
+  {
+    "krETH": "0xbb37d6016f97Dd369eCB76e2A5036DacD8770f8b"
+  },
+  {
+    "krETH_Implementation": "0xcea6fc4F95bce9a1Fc4135C1c3f822e2f26a4CB8"
+  },
+  {
+    "krETH_Proxy": "0xbb37d6016f97Dd369eCB76e2A5036DacD8770f8b"
+  },
+  {
+    "krTSLA": "0x3502B0329a45011C8FEE033B8eEe6BDA89c03081"
+  },
+  {
+    "krTSLA_Implementation": "0x47B2BA38520e2b8F028066f95e713ea3F6F48685"
+  },
+  {
+    "krTSLA_Proxy": "0x3502B0329a45011C8FEE033B8eEe6BDA89c03081"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "DefaultProxyAdmin": "0xA57468F82a8Dec0a1C0687fB9e56826B96800b24"
+  },
+  {
+    "OfficiallyKreskian": "0xAbDb949a18d27367118573A217E5353EDe5A0f1E"
+  },
+  {
+    "OfficiallyKreskian_Implementation": "0xF4fA02fEC78f3d08F6Ce2fa190c139471e85b3E4"
+  },
+  {
+    "OfficiallyKreskian_Proxy": "0xAbDb949a18d27367118573A217E5353EDe5A0f1E"
+  },
+  {
+    "QuestForKresk": "0x1C04925779805f2dF7BbD0433ABE92Ea74829bF6"
+  },
+  {
+    "QuestForKresk_Implementation": "0xdd8E57e09b7e4A05677c2FB08f759D2148bE588D"
+  },
+  {
+    "QuestForKresk_Proxy": "0x1C04925779805f2dF7BbD0433ABE92Ea74829bF6"
+  },
+  {
+    "Multisig": "0x31d866AAf9D8588B1295e3A34B6B714a62fE2989"
+  }
+]
