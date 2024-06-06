@@ -1,3 +1,3 @@
-# Official deployed addresses
+# Official deployed addresses (deprecated)
 
-Find contract addresses for each network as json within the `networks` folder.
+[Moved to](https://kresko.gitbook.io/kresko-docs/contracts/deployment-addresses)
